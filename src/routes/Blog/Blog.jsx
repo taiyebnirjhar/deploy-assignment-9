@@ -37,7 +37,7 @@ function Blog() {
   ];
 
   return (
-    <div className="blog__container  md:h-max-content lg:h-screen ">
+    <div className="blog__container  h-screen ">
       <div className="container max-w-4xl px-6 py-10 mx-auto ">
         <h1 className="text-4xl font-semibold text-center text-gray-300 opacity-95">
           Basic questions related to react
