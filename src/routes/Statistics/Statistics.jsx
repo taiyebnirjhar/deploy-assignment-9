@@ -17,7 +17,10 @@ function Statistics() {
   return (
     <div>
       <div className="Statistics__container">
-        <div className="h-screen  md:h-max-content lg:h-screen mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div
+          className="
+        h-screen mx-auto max-w-7xl px-2 sm:px-6 lg:px-8"
+        >
           <div className="max-w-4xl px-6 py-10 mx-auto">
             <h1 className="text-4xl font-semibold text-center text-gray-300 opacity-95">
               Statistic of Quizes
