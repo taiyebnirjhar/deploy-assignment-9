@@ -27,7 +27,7 @@ function Problems() {
   ];
 
   return (
-    <div className="problems__container ">
+    <div className="problems__container xl:h-screen">
       <Header />
 
       <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 ">
